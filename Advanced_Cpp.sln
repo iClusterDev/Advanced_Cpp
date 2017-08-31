@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "S03L04_Bynary_Files", "S03L
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "S05L01_Overloaded_Assignment", "S05L01_Overloaded_Assignment\S05L01_Overloaded_Assignment.vcxproj", "{2B73A63C-4476-4B3C-8615-910EB1FF06E8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "S05L02_Overloaded_Left_Bit_Shift", "S05L02_Overloaded_Left_Bit_Shift\S05L02_Overloaded_Left_Bit_Shift.vcxproj", "{7BFC33B2-CD52-4E4B-BC11-C0AD5695E327}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{2B73A63C-4476-4B3C-8615-910EB1FF06E8}.Release|x64.Build.0 = Release|x64
 		{2B73A63C-4476-4B3C-8615-910EB1FF06E8}.Release|x86.ActiveCfg = Release|Win32
 		{2B73A63C-4476-4B3C-8615-910EB1FF06E8}.Release|x86.Build.0 = Release|Win32
+		{7BFC33B2-CD52-4E4B-BC11-C0AD5695E327}.Debug|x64.ActiveCfg = Debug|x64
+		{7BFC33B2-CD52-4E4B-BC11-C0AD5695E327}.Debug|x64.Build.0 = Debug|x64
+		{7BFC33B2-CD52-4E4B-BC11-C0AD5695E327}.Debug|x86.ActiveCfg = Debug|Win32
+		{7BFC33B2-CD52-4E4B-BC11-C0AD5695E327}.Debug|x86.Build.0 = Debug|Win32
+		{7BFC33B2-CD52-4E4B-BC11-C0AD5695E327}.Release|x64.ActiveCfg = Release|x64
+		{7BFC33B2-CD52-4E4B-BC11-C0AD5695E327}.Release|x64.Build.0 = Release|x64
+		{7BFC33B2-CD52-4E4B-BC11-C0AD5695E327}.Release|x86.ActiveCfg = Release|Win32
+		{7BFC33B2-CD52-4E4B-BC11-C0AD5695E327}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
