@@ -34,7 +34,7 @@ public:
 
 //implementation of the overloaded left bit shift operator
 //this returns a reference to ostream object because
-//the lefs shift bit is a left to right operator
+//the left shift bit is a left to right operator
 std::ostream& operator<<(std::ostream& outStream, const KeyValue& source) {
 	outStream << source._key << " - " << source._value;
 	return outStream;
